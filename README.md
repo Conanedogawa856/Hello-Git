@@ -1,2 +1,2 @@
 # Hello-Git
-this is a description of Hello-Git
+This folder contains the lab assignments.
